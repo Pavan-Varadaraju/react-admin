@@ -1,0 +1,222 @@
+{
+  "users": [
+    { "FullName": "Ganu", "id": "147" },
+    { "FullName": "Manju", "id": "258" },
+    { "FullName": "Pavan", "id": "369" },
+    { "FullName": "Puni", "id": "456" },
+    { "FullName": "Santhu", "id": "789" }
+  ],
+
+  "ContributionDetails": [
+    {
+      "ContributionMonth": "January 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/01/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/01/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/01/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/01/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/01/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "February 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/02/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/02/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/02/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/02/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/02/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "March 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/03/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/03/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/03/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/03/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/03/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "April 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/04/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/04/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/04/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/04/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/04/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "May 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/05/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/05/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/05/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/05/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/05/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "June 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/06/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/06/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/06/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/06/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 1000,
+          "ContributionDate": "01/06/2021"
+        }
+      ]
+    },
+    {
+      "ContributionMonth": "July 2021",
+      "Contributors": [
+        {
+          "Contributor": { "FullName": "Ganu", "id": "147" },
+          "ContributionAmount": 5000,
+          "ContributionDate": "01/07/2021"
+        },
+        {
+          "Contributor": { "FullName": "Manju", "id": "258" },
+          "ContributionAmount": 5000,
+          "ContributionDate": "01/07/2021"
+        },
+        {
+          "Contributor": { "FullName": "Pavan", "id": "369" },
+          "ContributionAmount": 5000,
+          "ContributionDate": "01/07/2021"
+        },
+        {
+          "Contributor": { "FullName": "Puni", "id": "456" },
+          "ContributionAmount": 0,
+          "ContributionDate": "01/07/2021"
+        },
+        {
+          "Contributor": { "FullName": "Santhu", "id": "789" },
+          "ContributionAmount": 5000,
+          "ContributionDate": "01/07/2021"
+        }
+      ]
+    }
+  ]
+}
