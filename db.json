@@ -95,6 +95,11 @@
           "Contributor": { "FullName": "Santhu", "id": "789" },
           "ContributionAmount": 1000,
           "ContributionDate": "01/03/2021"
+        },
+        {
+          "Contributor": { "FullName": "Others", "id": "123" },
+          "ContributionAmount": 96,
+          "ContributionDate": "01/03/2021"
         }
       ]
     },
